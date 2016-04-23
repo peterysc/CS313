@@ -1,9 +1,9 @@
 # CS 313 Assignments
 
-A1)
+A1) translated x86 assembly code to Y86 assembly code
 
-A2)
+A2) implemented the fetch stage for RISC Pipeline in C
 
-A3)
+A3) implemented a cache (direct-mapped, n-way associative, fully associative) that uses Most Recently Used replacement policy in C
 
-A4)
+A4) implemented FAT12 and FAT32 file system tracker in C
