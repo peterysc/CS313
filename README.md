@@ -1,4 +1,4 @@
-# CS 313 - Computer Hardware and Operating Systems - Assignments
+# CS 313 (Computer Hardware and OS) - Assignments
 
 A1) translated x86 assembly code to Y86 assembly code
 
